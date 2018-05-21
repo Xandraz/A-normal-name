@@ -6,3 +6,4 @@ asdasd
 asdasd
 asdsd
 asds
+raise issue critical
